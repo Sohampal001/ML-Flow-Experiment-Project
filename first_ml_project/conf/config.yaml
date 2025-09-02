@@ -1,0 +1,16 @@
+experiment:
+  name: "first_experiment"
+  tracking_uri: "file:./mlruns"
+
+dataset:
+  name: "iris"
+  batch_size: 32
+
+model:
+  type: "random_forest"
+
+training:
+  epochs: 5
+  learning_rate: 0.01
+  optimizer: "adam"
+  n_estimators: 1000

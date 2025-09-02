@@ -1,0 +1,2 @@
+- training.learning_rate=1
+- training.epochs=100
