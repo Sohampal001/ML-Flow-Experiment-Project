@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  preprocess:
+    cmd: python xgboost_project/src/preprocess.py
+    deps:
+    - path: xgboost_project/data/raw/winequality-red.csv
+      hash: md5
+      md5: d6a3a27e71976eec64812e99cdfb7a17
+      size: 85586
+    - path: xgboost_project/src/preprocess.py
+      hash: md5
+      md5: bf976e39cb07ea9e26a5036cec78014f
+      size: 1084
+    outs:
+    - path: xgboost_project/data/preprocessed/winequality-red-preprocessed.csv
+      hash: md5
+      md5: 2d48d56000045669dece2ad3fdb6fdc0
+      size: 299410
