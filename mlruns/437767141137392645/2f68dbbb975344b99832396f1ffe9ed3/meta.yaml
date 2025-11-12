@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/2f68dbbb975344b99832396f1ffe9ed3/artifacts
+deleted_time: 1756969564625
+end_time: 1756969290045
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 2f68dbbb975344b99832396f1ffe9ed3
+run_name: delicate-cub-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969283271
+status: 3
+tags: []
+user_id: soham

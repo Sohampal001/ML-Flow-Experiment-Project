@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/921f465b191549398399cc2bb07ea281/artifacts
+deleted_time: 1756987713964
+end_time: 1756987659525
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 921f465b191549398399cc2bb07ea281
+run_name: tasteful-midge-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756987659451
+status: 4
+tags: []
+user_id: soham

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/a17a015a042b46e6b7d5e2701ea69114/artifacts
+deleted_time: 1756969163862
+end_time: 1756968946495
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: a17a015a042b46e6b7d5e2701ea69114
+run_name: popular-dog-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756968938981
+status: 3
+tags: []
+user_id: soham

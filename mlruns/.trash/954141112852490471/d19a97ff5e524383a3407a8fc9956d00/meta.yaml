@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/954141112852490471/d19a97ff5e524383a3407a8fc9956d00/artifacts
+deleted_time: 1756898425788
+end_time: 1756897310712
+entry_point_name: ''
+experiment_id: '954141112852490471'
+lifecycle_stage: deleted
+run_id: d19a97ff5e524383a3407a8fc9956d00
+run_name: glamorous-koi-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756897299804
+status: 3
+tags: []
+user_id: soham

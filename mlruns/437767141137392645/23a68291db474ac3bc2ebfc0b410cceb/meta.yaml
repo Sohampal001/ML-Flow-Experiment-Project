@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/23a68291db474ac3bc2ebfc0b410cceb/artifacts
+deleted_time: 1756902213637
+end_time: 1756902064551
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 23a68291db474ac3bc2ebfc0b410cceb
+run_name: illustrious-roo-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756902055436
+status: 3
+tags: []
+user_id: soham

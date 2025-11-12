@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/bcc784762a734f0c8ce1afcd5a404ce6/artifacts
+end_time: 1756993533199
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: active
+run_id: bcc784762a734f0c8ce1afcd5a404ce6
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756993529225
+status: 3
+tags: []
+user_id: soham

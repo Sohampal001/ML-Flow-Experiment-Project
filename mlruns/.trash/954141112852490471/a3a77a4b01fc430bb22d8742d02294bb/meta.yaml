@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/954141112852490471/a3a77a4b01fc430bb22d8742d02294bb/artifacts
+deleted_time: 1756898425788
+end_time: 1756897983899
+entry_point_name: ''
+experiment_id: '954141112852490471'
+lifecycle_stage: deleted
+run_id: a3a77a4b01fc430bb22d8742d02294bb
+run_name: capable-asp-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756897973913
+status: 3
+tags: []
+user_id: soham

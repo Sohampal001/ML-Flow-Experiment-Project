@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/954141112852490471/911e3d7421a844c2a3a289078951e0cf/artifacts
+deleted_time: 1756898425788
+end_time: 1756898047093
+entry_point_name: ''
+experiment_id: '954141112852490471'
+lifecycle_stage: deleted
+run_id: 911e3d7421a844c2a3a289078951e0cf
+run_name: caring-moth-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756898039862
+status: 3
+tags: []
+user_id: soham

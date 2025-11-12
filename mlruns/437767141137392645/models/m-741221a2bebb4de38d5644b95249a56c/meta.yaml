@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ml_flow_project/mlruns/437767141137392645/models/m-741221a2bebb4de38d5644b95249a56c/artifacts
+creation_timestamp: 1756990453799
+experiment_id: '437767141137392645'
+last_updated_timestamp: 1756990459643
+model_id: m-741221a2bebb4de38d5644b95249a56c
+model_type: null
+name: logistic_regression
+source_run_id: 2efa53fa0edc4bc59ff12668f81053b2
+status: 2
+status_message: null

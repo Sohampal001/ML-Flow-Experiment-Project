@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/4ac5db7cbf7e49148b10a21d0dd6d529/artifacts
+deleted_time: 1756993476918
+end_time: 1756992880526
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 4ac5db7cbf7e49148b10a21d0dd6d529
+run_name: bedecked-lynx-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756992873150
+status: 3
+tags: []
+user_id: soham

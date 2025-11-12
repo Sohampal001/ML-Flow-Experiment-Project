@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/27d90b91728e4a25895d015725c87c71/artifacts
+deleted_time: 1756990325931
+end_time: 1756987680922
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 27d90b91728e4a25895d015725c87c71
+run_name: unequaled-yak-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756987673413
+status: 3
+tags: []
+user_id: soham

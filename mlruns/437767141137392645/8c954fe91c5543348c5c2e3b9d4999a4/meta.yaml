@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/8c954fe91c5543348c5c2e3b9d4999a4/artifacts
+deleted_time: 1756993476919
+end_time: 1756992766977
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 8c954fe91c5543348c5c2e3b9d4999a4
+run_name: fun-moth-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756992757546
+status: 3
+tags: []
+user_id: soham

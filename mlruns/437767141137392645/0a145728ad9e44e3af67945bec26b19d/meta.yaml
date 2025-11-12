@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/0a145728ad9e44e3af67945bec26b19d/artifacts
+deleted_time: 1756993476922
+end_time: 1756992784136
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 0a145728ad9e44e3af67945bec26b19d
+run_name: placid-duck-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756992776790
+status: 3
+tags: []
+user_id: soham

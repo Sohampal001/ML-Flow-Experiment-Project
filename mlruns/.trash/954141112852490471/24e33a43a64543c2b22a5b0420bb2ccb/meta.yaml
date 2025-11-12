@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/954141112852490471/24e33a43a64543c2b22a5b0420bb2ccb/artifacts
+deleted_time: 1756898425788
+end_time: 1756893813072
+entry_point_name: ''
+experiment_id: '954141112852490471'
+lifecycle_stage: deleted
+run_id: 24e33a43a64543c2b22a5b0420bb2ccb
+run_name: dapper-sheep-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756893802438
+status: 3
+tags: []
+user_id: soham

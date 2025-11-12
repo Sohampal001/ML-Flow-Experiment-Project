@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/9e2f5dc6824e4524b3b3952db10493cd/artifacts
+deleted_time: 1756992399407
+end_time: 1756992134501
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 9e2f5dc6824e4524b3b3952db10493cd
+run_name: exultant-sow-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756992127555
+status: 3
+tags: []
+user_id: soham

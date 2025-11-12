@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/0b0f117633914717ba0744a69eee0ea0/artifacts
+deleted_time: 1756902213634
+end_time: 1756901898903
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 0b0f117633914717ba0744a69eee0ea0
+run_name: agreeable-shrike-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756901890053
+status: 3
+tags: []
+user_id: soham

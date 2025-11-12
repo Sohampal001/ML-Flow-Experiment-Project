@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ml_flow_project/mlruns/437767141137392645/models/m-363bdfec11944bc088ba4717438a3b6b/artifacts
+creation_timestamp: 1756992873584
+experiment_id: '437767141137392645'
+last_updated_timestamp: 1756992880063
+model_id: m-363bdfec11944bc088ba4717438a3b6b
+model_type: null
+name: svm
+source_run_id: 4ac5db7cbf7e49148b10a21d0dd6d529
+status: 2
+status_message: null

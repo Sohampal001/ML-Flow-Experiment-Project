@@ -1,0 +1,7 @@
+artifact_location: file:///D:/ml_flow_project/mlruns/264164236017119879
+creation_time: 1756902939461
+experiment_id: '264164236017119879'
+last_update_time: 1756969171063
+lifecycle_stage: deleted
+name: xgboost_project
+tags: {}

@@ -1,0 +1,28 @@
+experiment:
+  name: xgboost_logistic
+  tracking_uri: file:./mlruns
+dataset:
+  dataset: null
+  raw_path: D:/ml_flow_project/xg_lg/data/raw/winequality-red.csv
+  train_path: D:/ml_flow_project/xg_lg/data/preprocessed/winequality-red-preprocessed_train.csv
+  test_path: D:/ml_flow_project/xg_lg/data/preprocessed/winequality-red-preprocessed_test.csv
+  target: quality
+  test_size: 0.2
+  random_state: 42
+model:
+  type: XGBoost
+params:
+  c: 1.0
+  l1_ratio: 0.5
+  penalty: elasticnet
+  solver: saga
+  max_iter: 1000
+  n_estimators: 200
+  max_depth: 6
+  learning_rate: 0.1
+  subsample: 0.8
+  colsample_bytree: 0.8
+  eval_metric: logloss
+  random_state: 42
+  kernel: rbf
+  gamma: scale

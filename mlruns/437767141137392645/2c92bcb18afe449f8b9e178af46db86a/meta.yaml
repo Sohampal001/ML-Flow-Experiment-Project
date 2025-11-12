@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/2c92bcb18afe449f8b9e178af46db86a/artifacts
+deleted_time: 1756990325906
+end_time: 1756990275486
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 2c92bcb18afe449f8b9e178af46db86a
+run_name: invincible-snipe-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990266891
+status: 3
+tags: []
+user_id: soham

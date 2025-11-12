@@ -1,0 +1,6 @@
+artifact_location: file:///D:/ml_flow_project/mlruns/437767141137392645
+creation_time: 1756898956370
+experiment_id: '437767141137392645'
+last_update_time: 1756898956370
+lifecycle_stage: active
+name: xgboost_logistic

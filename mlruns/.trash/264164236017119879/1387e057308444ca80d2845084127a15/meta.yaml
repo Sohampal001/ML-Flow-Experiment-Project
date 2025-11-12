@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/264164236017119879/1387e057308444ca80d2845084127a15/artifacts
+deleted_time: 1756903168544
+end_time: 1756902973915
+entry_point_name: ''
+experiment_id: '264164236017119879'
+lifecycle_stage: deleted
+run_id: 1387e057308444ca80d2845084127a15
+run_name: ambitious-ant-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756902964485
+status: 3
+tags: []
+user_id: soham

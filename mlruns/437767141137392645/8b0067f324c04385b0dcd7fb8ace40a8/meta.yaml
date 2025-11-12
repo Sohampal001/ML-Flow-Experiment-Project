@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/8b0067f324c04385b0dcd7fb8ace40a8/artifacts
+deleted_time: 1756969564642
+end_time: 1756969198970
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 8b0067f324c04385b0dcd7fb8ace40a8
+run_name: sneaky-sponge-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756969191499
+status: 3
+tags: []
+user_id: soham

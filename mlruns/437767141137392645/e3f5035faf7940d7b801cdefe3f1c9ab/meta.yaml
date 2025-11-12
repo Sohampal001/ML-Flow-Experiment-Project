@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/e3f5035faf7940d7b801cdefe3f1c9ab/artifacts
+deleted_time: 1756969163844
+end_time: 1756903700166
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: e3f5035faf7940d7b801cdefe3f1c9ab
+run_name: defiant-flea-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756903692119
+status: 3
+tags: []
+user_id: soham

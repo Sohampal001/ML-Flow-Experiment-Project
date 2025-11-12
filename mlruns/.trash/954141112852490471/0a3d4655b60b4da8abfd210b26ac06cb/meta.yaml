@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/954141112852490471/0a3d4655b60b4da8abfd210b26ac06cb/artifacts
+deleted_time: 1756898425788
+end_time: 1756885673125
+entry_point_name: ''
+experiment_id: '954141112852490471'
+lifecycle_stage: deleted
+run_id: 0a3d4655b60b4da8abfd210b26ac06cb
+run_name: shivering-grouse-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756885667797
+status: 3
+tags: []
+user_id: soham

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/9f834e65162944479235dc14fcd20d7f/artifacts
+deleted_time: 1756993476922
+end_time: 1756993408255
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 9f834e65162944479235dc14fcd20d7f
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756993398755
+status: 3
+tags: []
+user_id: soham

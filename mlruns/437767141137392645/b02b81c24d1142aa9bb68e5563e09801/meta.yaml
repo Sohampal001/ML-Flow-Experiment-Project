@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/b02b81c24d1142aa9bb68e5563e09801/artifacts
+deleted_time: 1756902213660
+end_time: 1756901564473
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: b02b81c24d1142aa9bb68e5563e09801
+run_name: intrigued-fawn-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756901559714
+status: 3
+tags: []
+user_id: soham

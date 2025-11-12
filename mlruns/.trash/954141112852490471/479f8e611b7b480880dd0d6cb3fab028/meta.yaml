@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/954141112852490471/479f8e611b7b480880dd0d6cb3fab028/artifacts
+deleted_time: 1756898425788
+end_time: 1756894223511
+entry_point_name: ''
+experiment_id: '954141112852490471'
+lifecycle_stage: deleted
+run_id: 479f8e611b7b480880dd0d6cb3fab028
+run_name: upset-ram-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756894213717
+status: 3
+tags: []
+user_id: soham

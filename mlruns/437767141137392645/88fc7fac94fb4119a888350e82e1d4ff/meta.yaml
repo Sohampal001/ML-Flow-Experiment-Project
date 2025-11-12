@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml_flow_project/mlruns/437767141137392645/88fc7fac94fb4119a888350e82e1d4ff/artifacts
+deleted_time: 1756990325905
+end_time: 1756990121129
+entry_point_name: ''
+experiment_id: '437767141137392645'
+lifecycle_stage: deleted
+run_id: 88fc7fac94fb4119a888350e82e1d4ff
+run_name: dazzling-mule-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990112464
+status: 4
+tags: []
+user_id: soham
