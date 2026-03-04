@@ -1,0 +1,2 @@
+- model.type=logistic_regression
+- params.c=0.2

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/a70926eae8044279a620b998106c5ea3/artifacts
+end_time: 1768296288016
+entry_point_name: ''
+experiment_id: '843237505390074866'
+lifecycle_stage: active
+run_id: a70926eae8044279a620b998106c5ea3
+run_name: classy-skunk-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768296279306
+status: 3
+tags: []
+user_id: soham

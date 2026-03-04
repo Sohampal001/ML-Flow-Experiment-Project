@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/ac600d3384634b2184752196dcf0bcfb/artifacts
+end_time: 1768292942075
+entry_point_name: ''
+experiment_id: '843237505390074866'
+lifecycle_stage: active
+run_id: ac600d3384634b2184752196dcf0bcfb
+run_name: bedecked-hawk-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768292941998
+status: 4
+tags: []
+user_id: soham

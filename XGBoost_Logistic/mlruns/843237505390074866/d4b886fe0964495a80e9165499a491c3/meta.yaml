@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/d4b886fe0964495a80e9165499a491c3/artifacts
+end_time: 1769578882090
+entry_point_name: ''
+experiment_id: '843237505390074866'
+lifecycle_stage: active
+run_id: d4b886fe0964495a80e9165499a491c3
+run_name: xgboost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769578872149
+status: 3
+tags: []
+user_id: soham

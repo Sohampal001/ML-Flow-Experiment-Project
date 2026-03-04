@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/503af06bfe25457abed9698f169fe45e/artifacts
+end_time: 1768295938641
+entry_point_name: ''
+experiment_id: '843237505390074866'
+lifecycle_stage: active
+run_id: 503af06bfe25457abed9698f169fe45e
+run_name: fortunate-stag-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768295932441
+status: 3
+tags: []
+user_id: soham

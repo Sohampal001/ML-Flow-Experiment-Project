@@ -1,0 +1,19 @@
+schema: '2.0'
+stages:
+  preprocess:
+    cmd: python src/preprocess.py
+    deps:
+    - path: data/raw/winequality-red.csv
+      hash: md5
+      md5: d6a3a27e71976eec64812e99cdfb7a17
+      size: 85586
+    - path: src/preprocess.py
+      hash: md5
+      md5: 30a57fae069d068f9ec30d41bc2f2d9e
+      size: 3156
+    outs:
+    - path: data/preprocessed
+      hash: md5
+      md5: 83f22ce579d43d4f5e9b4ef91d63353b.dir
+      size: 298408
+      nfiles: 2

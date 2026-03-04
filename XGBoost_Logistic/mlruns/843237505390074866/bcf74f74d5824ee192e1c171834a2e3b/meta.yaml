@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/bcf74f74d5824ee192e1c171834a2e3b/artifacts
+end_time: 1768293064930
+entry_point_name: ''
+experiment_id: '843237505390074866'
+lifecycle_stage: active
+run_id: bcf74f74d5824ee192e1c171834a2e3b
+run_name: powerful-auk-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768293059273
+status: 3
+tags: []
+user_id: soham

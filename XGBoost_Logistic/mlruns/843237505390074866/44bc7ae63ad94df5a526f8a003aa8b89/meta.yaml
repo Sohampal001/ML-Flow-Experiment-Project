@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/44bc7ae63ad94df5a526f8a003aa8b89/artifacts
+end_time: 1768293154051
+entry_point_name: ''
+experiment_id: '843237505390074866'
+lifecycle_stage: active
+run_id: 44bc7ae63ad94df5a526f8a003aa8b89
+run_name: unique-deer-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768293150671
+status: 3
+tags: []
+user_id: soham

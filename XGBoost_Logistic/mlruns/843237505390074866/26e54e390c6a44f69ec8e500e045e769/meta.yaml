@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/26e54e390c6a44f69ec8e500e045e769/artifacts
+end_time: 1768296062331
+entry_point_name: ''
+experiment_id: '843237505390074866'
+lifecycle_stage: active
+run_id: 26e54e390c6a44f69ec8e500e045e769
+run_name: orderly-yak-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768296056334
+status: 3
+tags: []
+user_id: soham

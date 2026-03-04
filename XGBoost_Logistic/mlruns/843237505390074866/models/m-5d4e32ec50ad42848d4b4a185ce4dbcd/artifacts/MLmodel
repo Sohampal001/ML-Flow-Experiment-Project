@@ -1,0 +1,22 @@
+artifact_path: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/models/m-5d4e32ec50ad42848d4b4a185ce4dbcd/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.3.2
+model_id: m-5d4e32ec50ad42848d4b4a185ce4dbcd
+model_size_bytes: 1066
+model_uuid: m-5d4e32ec50ad42848d4b4a185ce4dbcd
+prompts: null
+run_id: 503af06bfe25457abed9698f169fe45e
+utc_time_created: '2026-01-13 09:18:52.742785'

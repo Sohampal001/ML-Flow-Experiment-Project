@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/dfe3e255c8154773a1c7389f563c2db3/artifacts
+end_time: 1768295839312
+entry_point_name: ''
+experiment_id: '843237505390074866'
+lifecycle_stage: active
+run_id: dfe3e255c8154773a1c7389f563c2db3
+run_name: delicate-calf-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768295827360
+status: 3
+tags: []
+user_id: soham

@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/models/m-c9cc886bb79144dda3eef1ee56013129/artifacts
+creation_timestamp: 1768296280770
+experiment_id: '843237505390074866'
+last_updated_timestamp: 1768296287132
+model_id: m-c9cc886bb79144dda3eef1ee56013129
+model_type: null
+name: model
+source_run_id: a70926eae8044279a620b998106c5ea3
+status: 2
+status_message: null

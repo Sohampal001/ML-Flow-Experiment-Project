@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/8c00028caef242fcb464cb75d00b6670/artifacts
+end_time: 1769578907118
+entry_point_name: ''
+experiment_id: '843237505390074866'
+lifecycle_stage: active
+run_id: 8c00028caef242fcb464cb75d00b6670
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769578899959
+status: 3
+tags: []
+user_id: soham

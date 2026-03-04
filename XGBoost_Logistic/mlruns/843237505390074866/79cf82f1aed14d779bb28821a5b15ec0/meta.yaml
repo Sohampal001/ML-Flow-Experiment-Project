@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_flow_project/XGBoost_Logistic/mlruns/843237505390074866/79cf82f1aed14d779bb28821a5b15ec0/artifacts
+end_time: 1769578550044
+entry_point_name: ''
+experiment_id: '843237505390074866'
+lifecycle_stage: active
+run_id: 79cf82f1aed14d779bb28821a5b15ec0
+run_name: crawling-dolphin-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769578535672
+status: 3
+tags: []
+user_id: soham
